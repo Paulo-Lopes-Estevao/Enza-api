@@ -1,488 +1,544 @@
-[
- {
-  "flag": "",
-  "location": "",
-  "name": "África do Sul",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Angola",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Argélia",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Benin",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Botsuana",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Burquina Faso",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Burundi",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Camarões",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Chade",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Costa do Marfim",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Djibouti",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Egito",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Eritreia",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Etiópia",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Gabão",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Gâmbia",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Gana",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Guiné",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Guiné-Bissau",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Guiné Equatorial",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Ilhas de Madagascar",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Ilhas de Cabo Verde",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Ilhas de Comores",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Ilhas de São Tomé e Príncipe",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Ilhas Seychelles",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Lesoto",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Libéria",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Líbia",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Malauí",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Mali",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Marrocos",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Mauritânia",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Moçambique",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Namíbia",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Níger",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Nigéria",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Quênia",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "República Centro Africana",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "República Democrática do Congo",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "República do Congo",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "República de Maurício",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Ruanda",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Senegal",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Serra Leoa",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Somália",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Essuatíni",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Sudão",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Sudão do Sul",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Tanzânia",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Togo",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Tunísia",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Uganda",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Zâmbia",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- },
- {
-  "flag": "",
-  "location": "",
-  "name": "Zimbábue",
-  "capital": "",
-  "population": 0,
-  "area": 0,
-  "callingcode": 0
- }
-]
+{
+  "africa": [
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["ZA"],
+      "name": "África do Sul",
+      "capital": "Cape Town",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["AO"],
+      "name": "Angola",
+      "capital": "Luanda",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["DZ"],
+      "name": "Argélia",
+      "capital": "Algiers",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["BJ"],
+      "name": "Benin",
+      "capital": "Porto-Novo",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["BW", "Botswana"],
+      "name": "Botsuana",
+      "capital": "Gaborone",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["BF", "Burkina Faso"],
+      "name": "Burquina Faso",
+      "capital": "Ouagadougou",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["BI"],
+      "name": "Burundi",
+      "capital": "Gitega",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["CM"],
+      "name": "Camarões",
+      "capital": "Yaoundé",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["TD"],
+      "name": "Chade",
+      "capital": "N'Djamena",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["CI"],
+      "name": "Costa do Marfim",
+      "capital": "Yamoussoukro",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["DJ"],
+      "name": "Djibouti",
+      "capital": "Djibouti City",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["EG"],
+      "name": "Egito",
+      "capital": "Cairo",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["ER"],
+      "name": "Eritreia",
+      "capital": "Asmara",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["ET"],
+      "name": "Etiópia",
+      "capital": "Addis Ababa",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["GA"],
+      "name": "Gabão",
+      "capital": "Libreville",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["GM"],
+      "name": "Gâmbia",
+      "capital": "Banjul",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["GH"],
+      "name": "Gana",
+      "capital": "Accra",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["GN"],
+      "name": "Guiné",
+      "capital": "Conakry",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["GW"],
+      "name": "Guiné-Bissau",
+      "capital": "Bissau",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["GQ"],
+      "name": "Guiné Equatorial",
+      "capital": "Malabo",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["MG", "Madagascar"],
+      "name": "Ilhas de Madagascar",
+      "capital": "Antananarivo",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["CV","Cabo Verde"],
+      "name": "Ilhas de Cabo Verde",
+      "capital": "Praia",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["KM", "Comores"],
+      "name": "Ilhas de Comores",
+      "capital": "Moroni",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["ST", "São Tomé e Príncipe"],
+      "name": "Ilhas de São Tomé e Príncipe",
+      "capital": "São Tomé",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["SC", "Seychelles"],
+      "name": "Ilhas Seychelles",
+      "capital": "Victoria",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["LS"],
+      "name": "Lesoto",
+      "capital": "Maseru",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["LR"],
+      "name": "Libéria",
+      "capital": "Monróvia",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["LY"],
+      "name": "Líbia",
+      "capital": "Trípoli",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["MW","Malawi"],
+      "name": "Malauí",
+      "capital": "Lilongwe",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["ML"],
+      "name": "Mali",
+      "capital": "Bamaco",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["MA"],
+      "name": "Marrocos",
+      "capital": "Rabat",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["MR"],
+      "name": "Mauritânia",
+      "capital": "Nuaquexote",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["MZ"],
+      "name": "Moçambique",
+      "capital": "Maputo",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["NA"],
+      "name": "Namíbia",
+      "capital": "Windhoek",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["NE"],
+      "name": "Níger",
+      "capital": "Niamey",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["NG"],
+      "name": "Nigéria",
+      "capital": "Abuja",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["KE"],
+      "name": "Quênia",
+      "capital": "Nairobi",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["CF"],
+      "name": "República Centro Africana",
+      "capital": "Bangui",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["CD"],
+      "name": "República Democrática do Congo",
+      "capital": "Kinshasa",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["CG"],
+      "name": "República do Congo",
+      "capital": "Brazzaville",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["MU", "Maurício"],
+      "name": "República de Maurício",
+      "capital": "Port Louis",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["RW"],
+      "name": "Ruanda",
+      "capital": "Kigali",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["SN"],
+      "name": "Senegal",
+      "capital": "Dacar",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["SL"],
+      "name": "Serra Leoa",
+      "capital": "Freetown",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["SO"],
+      "name": "Somália",
+      "capital": "Mogadíscio",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["", "Eswatini"],
+      "name": "Essuatíni",
+      "capital": "Mbabane",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["SD"],
+      "name": "Sudão",
+      "capital": "Cartum",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": [],
+      "name": "Sudão do Sul",
+      "capital": "Juba",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": [],
+      "name": "Tanzânia",
+      "capital": "Dodoma",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["TG"],
+      "name": "Togo",
+      "capital": "Lomé",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": [],
+      "name": "Tunísia",
+      "capital": "Tunes",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["UG"],
+      "name": "Uganda",
+      "capital": "Kampala",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["ZM"],
+      "name": "Zâmbia",
+      "capital": "Lusaka",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    },
+    {
+      "flag": "",
+      "location": "",
+      "keywords": ["ZW"],
+      "name": "Zimbábue",
+      "capital": "Harare",
+      "population": 0,
+      "area": 0,
+      "callingcode": 0
+    }
+  ]
+}
