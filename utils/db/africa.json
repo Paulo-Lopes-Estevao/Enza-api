@@ -3,12 +3,12 @@
     {
       "flag": "",
       "location": "",
-      "keywords": ["ZA"],
+      "keywords": ["ZA", "South Africa"],
       "name": "África do Sul",
       "capital": "Cape Town",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+27"
     },
     {
       "flag": "",
@@ -18,7 +18,7 @@
       "capital": "Luanda",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+244"
     },
     {
       "flag": "",
@@ -28,7 +28,7 @@
       "capital": "Algiers",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+213"
     },
     {
       "flag": "",
@@ -38,7 +38,7 @@
       "capital": "Porto-Novo",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+229"
     },
     {
       "flag": "",
@@ -48,7 +48,7 @@
       "capital": "Gaborone",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+267"
     },
     {
       "flag": "",
@@ -58,7 +58,7 @@
       "capital": "Ouagadougou",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+226"
     },
     {
       "flag": "",
@@ -68,37 +68,37 @@
       "capital": "Gitega",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+257"
     },
     {
       "flag": "",
       "location": "",
-      "keywords": ["CM"],
+      "keywords": ["CM", "Cameroon"],
       "name": "Camarões",
       "capital": "Yaoundé",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+237"
     },
     {
       "flag": "",
       "location": "",
-      "keywords": ["TD"],
+      "keywords": ["TD", "Chad"],
       "name": "Chade",
       "capital": "N'Djamena",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+235"
     },
     {
       "flag": "",
       "location": "",
-      "keywords": ["CI"],
+      "keywords": ["CI", "Ivory Coast"],
       "name": "Costa do Marfim",
       "capital": "Yamoussoukro",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+225"
     },
     {
       "flag": "",
@@ -108,7 +108,7 @@
       "capital": "Djibouti City",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+253"
     },
     {
       "flag": "",
@@ -118,27 +118,27 @@
       "capital": "Cairo",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+20"
     },
     {
       "flag": "",
       "location": "",
-      "keywords": ["ER"],
+      "keywords": ["ER", "Eritrea"],
       "name": "Eritreia",
       "capital": "Asmara",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+291"
     },
     {
       "flag": "",
       "location": "",
-      "keywords": ["ET"],
+      "keywords": ["ET", "Ethiopia"],
       "name": "Etiópia",
       "capital": "Addis Ababa",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+251"
     },
     {
       "flag": "",
@@ -148,7 +148,7 @@
       "capital": "Libreville",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+241"
     },
     {
       "flag": "",
@@ -158,17 +158,17 @@
       "capital": "Banjul",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+220"
     },
     {
       "flag": "",
       "location": "",
-      "keywords": ["GH"],
+      "keywords": ["GH", "Ghana"],
       "name": "Gana",
       "capital": "Accra",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+233"
     },
     {
       "flag": "",
@@ -178,7 +178,7 @@
       "capital": "Conakry",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+224"
     },
     {
       "flag": "",
@@ -188,7 +188,7 @@
       "capital": "Bissau",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+245"
     },
     {
       "flag": "",
@@ -198,7 +198,7 @@
       "capital": "Malabo",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+240"
     },
     {
       "flag": "",
@@ -208,17 +208,17 @@
       "capital": "Antananarivo",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+261"
     },
     {
       "flag": "",
       "location": "",
-      "keywords": ["CV","Cabo Verde"],
+      "keywords": ["CV", "Cabo Verde"],
       "name": "Ilhas de Cabo Verde",
       "capital": "Praia",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+238"
     },
     {
       "flag": "",
@@ -228,7 +228,7 @@
       "capital": "Moroni",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+269"
     },
     {
       "flag": "",
@@ -238,7 +238,7 @@
       "capital": "São Tomé",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+239"
     },
     {
       "flag": "",
@@ -248,7 +248,7 @@
       "capital": "Victoria",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+248"
     },
     {
       "flag": "",
@@ -258,7 +258,7 @@
       "capital": "Maseru",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+266"
     },
     {
       "flag": "",
@@ -268,7 +268,7 @@
       "capital": "Monróvia",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+231"
     },
     {
       "flag": "",
@@ -278,17 +278,17 @@
       "capital": "Trípoli",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+218"
     },
     {
       "flag": "",
       "location": "",
-      "keywords": ["MW","Malawi"],
+      "keywords": ["MW", "Malawi"],
       "name": "Malauí",
       "capital": "Lilongwe",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+265"
     },
     {
       "flag": "",
@@ -298,7 +298,7 @@
       "capital": "Bamaco",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+223"
     },
     {
       "flag": "",
@@ -308,7 +308,7 @@
       "capital": "Rabat",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+212"
     },
     {
       "flag": "",
@@ -318,17 +318,17 @@
       "capital": "Nuaquexote",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+222"
     },
     {
       "flag": "",
       "location": "",
-      "keywords": ["MZ"],
+      "keywords": ["MZ", "Mozambique"],
       "name": "Moçambique",
       "capital": "Maputo",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+258"
     },
     {
       "flag": "",
@@ -338,7 +338,7 @@
       "capital": "Windhoek",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+264"
     },
     {
       "flag": "",
@@ -348,7 +348,7 @@
       "capital": "Niamey",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+227"
     },
     {
       "flag": "",
@@ -358,12 +358,12 @@
       "capital": "Abuja",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+234"
     },
     {
       "flag": "",
       "location": "",
-      "keywords": ["KE"],
+      "keywords": ["KE", "Kenya"],
       "name": "Quênia",
       "capital": "Nairobi",
       "population": 0,
@@ -378,7 +378,7 @@
       "capital": "Bangui",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+236"
     },
     {
       "flag": "",
@@ -388,7 +388,7 @@
       "capital": "Kinshasa",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+243"
     },
     {
       "flag": "",
@@ -398,7 +398,7 @@
       "capital": "Brazzaville",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+242"
     },
     {
       "flag": "",
@@ -408,17 +408,17 @@
       "capital": "Port Louis",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+230"
     },
     {
       "flag": "",
       "location": "",
-      "keywords": ["RW"],
+      "keywords": ["RW", "Rwanda"],
       "name": "Ruanda",
       "capital": "Kigali",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+250"
     },
     {
       "flag": "",
@@ -428,7 +428,7 @@
       "capital": "Dacar",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+221"
     },
     {
       "flag": "",
@@ -438,7 +438,7 @@
       "capital": "Freetown",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+232"
     },
     {
       "flag": "",
@@ -448,7 +448,7 @@
       "capital": "Mogadíscio",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+252"
     },
     {
       "flag": "",
@@ -458,7 +458,7 @@
       "capital": "Mbabane",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+268"
     },
     {
       "flag": "",
@@ -468,7 +468,7 @@
       "capital": "Cartum",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+249"
     },
     {
       "flag": "",
@@ -478,7 +478,7 @@
       "capital": "Juba",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+211"
     },
     {
       "flag": "",
@@ -488,7 +488,7 @@
       "capital": "Dodoma",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+255"
     },
     {
       "flag": "",
@@ -498,7 +498,7 @@
       "capital": "Lomé",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+228"
     },
     {
       "flag": "",
@@ -508,7 +508,7 @@
       "capital": "Tunes",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+216"
     },
     {
       "flag": "",
@@ -518,7 +518,7 @@
       "capital": "Kampala",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+256"
     },
     {
       "flag": "",
@@ -528,7 +528,7 @@
       "capital": "Lusaka",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+260"
     },
     {
       "flag": "",
@@ -538,7 +538,7 @@
       "capital": "Harare",
       "population": 0,
       "area": 0,
-      "callingcode": 0
+      "callingcode": "+263"
     }
   ]
 }
