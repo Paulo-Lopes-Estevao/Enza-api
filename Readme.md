@@ -1,11 +1,11 @@
 # Microservice API World
 
-- Country
+- ## Country
 
 |Method|Endpoint                        |Description                                                    |BP |QP |
 |---   |---                             |---                                                            |---|---|
-|GET   |/coutry                 |It returns all country                        |---|---|
-|GET   |/coutry/{name}                 |It returns search country                        |---|---|
+|GET   |/v1/coutry                 |It returns all country                        |---|---|
+|GET   |/v1/coutry/{name}                 |It returns search country                        |---|---|
 
 
 <br>
@@ -13,7 +13,6 @@
 <table>
 <tr>
 <th>Response</th>
-<th>On Error</th>
 </tr>
 <tr>
 <td>
@@ -36,3 +35,26 @@
 </td>
 </tr>
 </table>
+
+> Examplo List `/v1/africa` 
+
+
+#
+#
+#
+## json data repository
+### 
+```json
+{
+      "flag": "",
+      "location": "",
+      "keywords": [""],
+      "name": "",
+      "capital": "",
+      "currency": "",
+      "language": "",
+      "population": 0,
+      "area": 0,
+      "callingcode": ""
+    }
+```
