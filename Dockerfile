@@ -11,7 +11,7 @@ ENV GOARCH=amd64
 COPY . /go/src/apiworld/
 
 
-RUN go build -o main
+RUN go build -o main.go
 
 WORKDIR /go/src/apiworld
 
