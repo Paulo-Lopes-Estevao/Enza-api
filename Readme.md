@@ -1,4 +1,21 @@
-# Microservice API World
+# Microservice API Enza
+
+Enza API tem como objectivo apresentar informações dos Paises por *Continentes* .
+<br>
+Informações como : 
+
+- Nome do Pais
+- Bandeira
+- Mapa
+- Capital
+- Moeda
+- Idioma
+- População
+- Codigo telefonico
+ 
+A Enza APi é um projeto totalmente grátuito .
+
+Serviço Desenvolvido em `Golang`
 
 - ## Country
 
