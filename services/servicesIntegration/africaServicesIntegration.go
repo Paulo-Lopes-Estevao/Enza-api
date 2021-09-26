@@ -28,7 +28,7 @@ func FindCountryAfrica(w http.ResponseWriter, r *http.Request) {
 
 	for _, v := range africa.Africa {
 
-		if v.Name == vars["name"] || v.Keywords[0] == vars["name"] {
+		if v.Base.Name == vars["name"] || v.Base.Keywords[0] == vars["name"] {
 			africa, _ := json.Marshal(v)
 			w.Write([]byte(africa))
 		}
