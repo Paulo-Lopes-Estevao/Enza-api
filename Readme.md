@@ -1,66 +1,43 @@
 # Microservice API Enza
 
-Enza API tem como objectivo apresentar informações dos Paises por *Continentes* .
-<br>
-Informações como : 
+Enza API é um projeto totalmente grátuito e tem como objectivo apresentar informações dos Paises por *Continentes*.
 
-- Nome do Pais
-- Bandeira
-- Mapa
-- Capital
-- Moeda
-- Idioma
-- População
-- Codigo telefonico
- 
-A Enza APi é um projeto totalmente grátuito .
+- Desenvolvido em `Golang` ela apresenta nformações como : 
+  - Nome do Pais
+  - Bandeira
+  - Mapa
+  - Capital
+  - Moeda
+  - Idioma
+  - População
+  - Codigo telefonico
 
-Serviço Desenvolvido em `Golang`
+## Endpoints
 
-- ## Country
+| Method | Endpoint | Description | BP | QP |
+| :---: | :---: | :---: | :---: | :---: |
+| GET | /v1/coutry | It returns the details of all countries |
+| GET | /v1/coutry/{name} | It returns the details of the referred country |
 
-|Method|Endpoint                        |Description                                                    |BP |QP |
-|---   |---                             |---                                                            |---|---|
-|GET   |/v1/coutry                 |It returns all country                        |---|---|
-|GET   |/v1/coutry/{name}                 |It returns search country                        |---|---|
-
-
-<br>
-
-<table>
-<tr>
-<th>Response</th>
-</tr>
-<tr>
-<td>
+## Response 
 
 ```json
 {
-"Flag"       :string,  
-"Location   ": string,  
-"Keywords   ": []string,
-"Name       ": string,  
-"Capital    ": string,  
-"Population ": float64, 
-"Area       ": float64, 
-"Callingcode": string,  
+    "Flag" : string,  
+    "Location" : string,  
+    "Keywords" : []string,
+    "Name" : string,  
+    "Capital" : string,  
+    "Population" : float64, 
+    "Area" : float64, 
+    "Callingcode" : string,  
 }
 ```
-</td>
-<td>
 
-</td>
-</tr>
-</table>
+## JSON data response
 
-> Examplo List `/v1/africa` 
+> Example List `/v1/africa` 
 
-
-#
-#
-#
-## json data repository
-### 
 ```json
 {
       "flag": "",
@@ -75,3 +52,7 @@ Serviço Desenvolvido em `Golang`
       "callingcode": ""
     }
 ```
+
+---
+
+&copy; 2021 Paulo-Lopes-Estevao
